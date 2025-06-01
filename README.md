@@ -1,0 +1,2 @@
+# wofi
+wofi config
