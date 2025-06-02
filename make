@@ -1,3 +1,4 @@
 #!/bin/bash
 
-sudo cp -rf cfg/* /
+BPACK=$(pwd)
+sudo cp -rf $BPACK/cfg/* /
