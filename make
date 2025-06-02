@@ -1,4 +1,3 @@
 #!/bin/bash
 
-BPACK=$(pwd)
-sudo cp -rf $BPACK/cfg/* /
+sudo cp -rf /opt/cache/wofi/cfg/* /
